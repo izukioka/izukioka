@@ -28,13 +28,13 @@ Contributions are welcome. Please follow the guidelines below:
 2. Make your changes.
 3. Submit a pull request.
 
-python
-print("Welcome to this project!")
-print("This is a brief description of the project.")
-print("It includes the main features and functionalities.")
-
 ### License
 This project is licensed under the MIT License.
 
 ### Contact
 For any questions or issues, please contact [your email address](mailto:your.email@example.com).
+
+```python
+print("Welcome to this project!")
+print("This is a brief description of the project.")
+print("It includes the main features and functionalities.")
