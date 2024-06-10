@@ -1,4 +1,5 @@
-# Welcome
+```python
+print("Welcome To My Profile")
 ================
 
 ### Overview
@@ -34,7 +35,3 @@ This project is licensed under the MIT License.
 ### Contact
 For any questions or issues, please contact [your email address](mailto:your.email@example.com).
 
-```python
-print("Welcome to this project!")
-print("This is a brief description of the project.")
-print("It includes the main features and functionalities.")
