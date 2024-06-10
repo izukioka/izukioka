@@ -1,4 +1,4 @@
-# Project Title
+# Welcome
 ================
 
 ### Overview
@@ -27,6 +27,11 @@ Contributions are welcome. Please follow the guidelines below:
 1. Fork the repository.
 2. Make your changes.
 3. Submit a pull request.
+
+python
+print("Welcome to this project!")
+print("This is a brief description of the project.")
+print("It includes the main features and functionalities.")
 
 ### License
 This project is licensed under the MIT License.
